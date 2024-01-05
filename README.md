@@ -27,3 +27,7 @@ linear scale
 0-------------------0
 
 Domain[0,3000]---------Range[0,500]
+
+
+[names]--------------band scale------------------x cord
+                    bandwidth(width of each different bar on the chart)

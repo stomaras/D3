@@ -19,6 +19,7 @@ rects.enter().append('rect').attr()
 
 Scales
 
+
 linear scale
 
 3000----------------500
